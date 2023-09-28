@@ -1,0 +1,30 @@
+.footer {
+    color: white;
+    background: rgb(53, 53, 57);
+    height: 70px;
+    margin: 0;
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+
+    .email {
+        font-size: 25px;
+        position: fixed;
+        bottom: 0;
+        left: 50px;
+    }
+
+    .address {
+        right: 50px;
+        bottom: 0;
+        position: fixed;
+
+    }
+}
+
+@media screen and (max-width: 992px) {
+    .footer {
+        display: none;
+    }
+}
