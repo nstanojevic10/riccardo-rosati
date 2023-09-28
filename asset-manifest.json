@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/riccardo-rosati/static/css/main.1c98d9fc.css",
+    "main.js": "/riccardo-rosati/static/js/main.1e30efb9.js",
+    "static/media/sep2018.jpg": "/riccardo-rosati/static/media/sep2018.ff60096a543f64e4ee25.jpg",
+    "static/media/jun2016.jpg": "/riccardo-rosati/static/media/jun2016.78c8296b6e58273a5cb1.jpg",
+    "static/media/okt2016.jpg": "/riccardo-rosati/static/media/okt2016.82b6cf16a3b142733044.jpg",
+    "static/media/mar2017.jpg": "/riccardo-rosati/static/media/mar2017.bc1ece957ece2531f013.jpg",
+    "static/media/apr2018.jpg": "/riccardo-rosati/static/media/apr2018.c6a5c4cf2819ea93e942.jpg",
+    "static/media/apr2015.jpg": "/riccardo-rosati/static/media/apr2015.00f4ee2ee51896fe99af.jpg",
+    "static/media/sep2018-2.jpg": "/riccardo-rosati/static/media/sep2018-2.47d56c54eaa92f0bf170.jpg",
+    "static/media/sep2017.jpg": "/riccardo-rosati/static/media/sep2017.cacb85f86814a8ef7e5d.jpg",
+    "static/media/raleway-all-400-normal.woff": "/riccardo-rosati/static/media/raleway-all-400-normal.98e7ff86f2b9a46e19cc.woff",
+    "static/media/apr2016.jpg": "/riccardo-rosati/static/media/apr2016.ce3a29b9b754f9bb52d3.jpg",
+    "static/media/okt2017.jpg": "/riccardo-rosati/static/media/okt2017.3b048dcac6faf5b7d201.jpg",
+    "static/media/feb2017.jpg": "/riccardo-rosati/static/media/feb2017.c1e14708003a3e27907d.jpg",
+    "static/media/dec2015.jpg": "/riccardo-rosati/static/media/dec2015.3b36a8cbe1dd10af306a.jpg",
+    "static/media/okt2015.jpg": "/riccardo-rosati/static/media/okt2015.fbe683d0dbf92825d8ee.jpg",
+    "static/media/jun2017.jpg": "/riccardo-rosati/static/media/jun2017.9b433238b092a59a971b.jpg",
+    "static/media/feb2015.jpg": "/riccardo-rosati/static/media/feb2015.ce26fa1735b4bc61d119.jpg",
+    "static/media/feb2015-3.jpg": "/riccardo-rosati/static/media/feb2015-3.6e62f28e3f6586c9499f.jpg",
+    "static/media/sep2015.jpg": "/riccardo-rosati/static/media/sep2015.353e8d483a85101e7a88.jpg",
+    "static/media/feb2015-2.jpg": "/riccardo-rosati/static/media/feb2015-2.856d1f53065d6aa8b621.jpg",
+    "static/media/easymyo.jpg": "/riccardo-rosati/static/media/easymyo.39f3f3203e7571dfd8e1.jpg",
+    "static/media/raleway-latin-400-normal.woff2": "/riccardo-rosati/static/media/raleway-latin-400-normal.0bdecdd83e78d540c297.woff2",
+    "static/media/photo.jpg": "/riccardo-rosati/static/media/photo.2d0a867d174e853535a4.jpg",
+    "static/media/raleway-latin-ext-400-normal.woff2": "/riccardo-rosati/static/media/raleway-latin-ext-400-normal.e2c3693083a044bed680.woff2",
+    "static/media/isodent.jpg": "/riccardo-rosati/static/media/isodent.a1b21dc94e3d703d211e.jpg",
+    "static/media/raleway-cyrillic-ext-400-normal.woff2": "/riccardo-rosati/static/media/raleway-cyrillic-ext-400-normal.afca160d632851197a24.woff2",
+    "static/media/raleway-cyrillic-400-normal.woff2": "/riccardo-rosati/static/media/raleway-cyrillic-400-normal.f7d0cc4bf9cf8da4f023.woff2",
+    "static/media/raleway-vietnamese-400-normal.woff2": "/riccardo-rosati/static/media/raleway-vietnamese-400-normal.bb6f51e1b67ec8802d57.woff2",
+    "index.html": "/riccardo-rosati/index.html",
+    "main.1c98d9fc.css.map": "/riccardo-rosati/static/css/main.1c98d9fc.css.map",
+    "main.1e30efb9.js.map": "/riccardo-rosati/static/js/main.1e30efb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c98d9fc.css",
+    "static/js/main.1e30efb9.js"
+  ]
+}
